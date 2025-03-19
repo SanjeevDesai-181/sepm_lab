@@ -3,3 +3,4 @@ I'm Sample file
 I'm code from dark mode branch
 
 I'm code from main branch
+I'm second line from dark mode branch
